@@ -1,11 +1,11 @@
 
 # level 1
 
-'''c++
+```c++
 int main() {
-  printf("%s\n", "hello");
+  std::cout << "hello" << std::endl;
 }
-'''
+```
 
 ## level 2
 
